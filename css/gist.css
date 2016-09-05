@@ -2784,7 +2784,7 @@ html, body {
   text-align: center;
   display: inline-block;
   width: 100%;
-  overflow: hidden; }
+  overflow: visible; }
   .social-media:last-child {
     margin-right: 0; }
   .social-media a {
@@ -2878,7 +2878,8 @@ html, body {
   text-transform: capitalize;
   -moz-box-shadow: 0.125em 0.0625em 0.0625em #212121;
   -webkit-box-shadow: 0.125em 0.0625em 0.0625em #212121;
-  box-shadow: 0.125em 0.0625em 0.0625em #212121; }
+  box-shadow: 0.125em 0.0625em 0.0625em #212121;
+  overflow: visible; }
   .cta:last-child {
     margin-right: 0; }
   .cta a {
