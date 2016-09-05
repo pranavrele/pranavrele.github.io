@@ -2784,7 +2784,8 @@ html, body {
   text-align: center;
   display: inline-block;
   width: 100%;
-  overflow: visible; }
+  padding: 0;
+  margin: 0; }
   .social-media:last-child {
     margin-right: 0; }
   .social-media a {
@@ -2872,14 +2873,15 @@ html, body {
   margin-right: 2.3576520234%;
   width: 100%;
   text-align: center;
+  padding: 0;
+  margin: 0;
   background-color: rgba(183, 36, 17, 0.8);
   font-size: 1.15em;
   line-height: 2em;
   text-transform: capitalize;
   -moz-box-shadow: 0.125em 0.0625em 0.0625em #212121;
   -webkit-box-shadow: 0.125em 0.0625em 0.0625em #212121;
-  box-shadow: 0.125em 0.0625em 0.0625em #212121;
-  overflow: visible; }
+  box-shadow: 0.125em 0.0625em 0.0625em #212121; }
   .cta:last-child {
     margin-right: 0; }
   .cta a {
