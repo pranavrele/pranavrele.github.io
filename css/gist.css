@@ -2786,7 +2786,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  overflow-x: hidden; }
+  overflow-y: hidden; }
   .social-media:last-child {
     margin-right: 0; }
   .social-media a {
@@ -2883,7 +2883,7 @@ html, body {
   -moz-box-shadow: 0.125em 0.0625em 0.0625em #212121;
   -webkit-box-shadow: 0.125em 0.0625em 0.0625em #212121;
   box-shadow: 0.125em 0.0625em 0.0625em #212121;
-  overflow-x: hidden; }
+  overflow-y: hidden; }
   .cta:last-child {
     margin-right: 0; }
   .cta a {
