@@ -11,10 +11,10 @@ $(document).ready(function() {
 	// Disable :hover on mobile devices
 	document.addEventListener('touchstart', function addtouchclass(e) {
 		
-		document.documentElement.classList.add('can-touch');
+		document.documentElement.classList.add('can-touch')
 		
-    	document.removeEventListener('touchstart', addtouchclass, false);
+    	document.removeEventListener('touchstart', addtouchclass, false)
 
-		}, false);
+		}, false)
 	
 });
