@@ -1,2 +1,2 @@
 # pranavrele.github.io
-Personal Portfolio Site
+Personal Site
