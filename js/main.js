@@ -1,3 +1,9 @@
+/*-----------------------------------------------------------------
+pranavrele.com Maintenance Page
+@author: Pranav Rele
+@version: 1.0
+------------------------------------------------------------------*/
+
 (function(){
 // get a new date (locale machine date time)
 var date = new Date();
